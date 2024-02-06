@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import SplitBill from "./components/SplitBill.vue";
+</script>
 
 <template>
-  <h1>Hi</h1>
+  <SplitBill />
 </template>
 
 <style scoped></style>
